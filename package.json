@@ -86,7 +86,7 @@
     "webpack-rxjs-externals": "^1.0.0",
     "zone.js": "^0.8.10"
   },
-  "homepage": "https://github.com/phenoengine/angular2-dtpicker#readme",
+  "homepage": "https://github.com/phenoengine/angular2-dtpicker#readmee",
   "keywords": [
     "angular2 datepicker",
     "angular2 datetimepicker",
